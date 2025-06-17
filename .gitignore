@@ -1,0 +1,54 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Caches
+.cache/
+*.log
+
+# Test, temp, debug data
+*.swp
+*.swo
+*.bak
+*.tmp
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/
+.ENV/
+
+# Jupyter notebooks (if not needed)
+*.ipynb
+
+# Mac / Windows system files
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+
+# Selenium driver binaries (if any)
+chromedriver
+chromedriver.exe
+geckodriver
+geckodriver.exe
+
+# Output folders
+data/output.json
+
+# Logs
+*.log
+
+# dotenv or config (if private)
+.env
+
+# Ignore any zip or dump files
+*.zip
+*.tar.gz
+*.rar
+*.7z
+*.dump
