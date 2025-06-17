@@ -52,3 +52,6 @@ data/output.json
 *.rar
 *.7z
 *.dump
+
+# Add Files that should not be tracked by git
+files/
